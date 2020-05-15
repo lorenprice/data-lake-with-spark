@@ -1,4 +1,4 @@
-# DATA LAKE
+# DATA LAKE ON AWS
 ___
 ### OVERVIEW 
 These files include the schema and ETL steps necessary to build a data lake for a music streaming service. The data lake contains songplay log information, as well as user, song, and artist information. The database can be queried to report on business performance or deliver user and product insights.  
